@@ -1,5 +1,5 @@
 📰 News App
-A modern Android application built using the latest technologies and best practices, designed to deliver news content in a clean, responsive, and performant way.
+An  Android application built using the latest technologies and best practices, designed to deliver news content in a clean, responsive, and performant way.
 
 🧱 Tech Stack
 Architecture: MVVM (Model-View-ViewModel)
