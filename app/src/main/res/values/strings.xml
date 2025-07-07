@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="home">Home</string>
+    <string name="categories">Categories</string>
+    <string name="home_nav_label">Home</string>
+    <string name="categories_nav_label">Categories</string>
+    <string name="app_logo">App Logo</string>
+    <string name="failed_to_load_page_please_check_your_connection">Failed to load page. Please check your connection.</string>
+    <string name="image_content_description">image\n</string>
+    <string name="no_network_connection">Please check network connection</string>
+    <string name="retry">retry</string>
+    <string name="no_articles_found">no news available</string>
+</resources>
